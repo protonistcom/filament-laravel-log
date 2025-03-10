@@ -1,5 +1,5 @@
 {
-    "name": "saade/filament-laravel-log",
+    "name": "protonistcom/filament-laravel-log",
     "description": "Access laravel.log file through Filament admin panel",
     "keywords": [
         "saade",
@@ -22,7 +22,7 @@
     "require": {
         "php": "^8.1",
         "filament/filament": "^3.0",
-        "illuminate/contracts": "^10.0|^11.0",
+        "illuminate/contracts": "^10.0|^11.0|^12.0",
         "spatie/laravel-package-tools": "^1.15.0"
     },
     "require-dev": {
